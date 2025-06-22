@@ -1,9 +1,3 @@
-Thanks! I checked your notebook here:
-👉 [Hate\_Speech\_Detection\_using\_Deep\_Learning.ipynb](https://github.com/Ananyaa00051/Hate-speech-prediction/blob/main/Hate_Speech_Detection_using_Deep_Learning.ipynb)
-
-Based on that, here’s a **simple and clear README** tailored to your project:
-
----
 
 # Hate Speech Detection using Deep Learning
 
